@@ -1139,6 +1139,10 @@ img {
   --tw-border-opacity: 1;
   border-color: rgb(168 85 247 / var(--tw-border-opacity));
 }
+.border-purple-200{
+  --tw-border-opacity: 9;
+  border-color: rgb(233 213 255 / var(--tw-border-opacity));
+}
 .border-gray-900{
   --tw-border-opacity: 1;
   border-color: rgb(17 24 39 / var(--tw-border-opacity));
