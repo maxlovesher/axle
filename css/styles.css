@@ -1140,8 +1140,8 @@ img {
   border-color: rgb(168 85 247 / var(--tw-border-opacity));
 }
 .border-purple-200{
-  --tw-border-opacity: 9;
-  border-color: rgb(233 213 255 / var(--tw-border-opacity));
+  --tw-border-opacity: 1;
+  border-color: rgb(64 64 64 / var(--tw-border-opacity));
 }
 .border-gray-900{
   --tw-border-opacity: 1;
@@ -1165,7 +1165,7 @@ img {
 }
 .bg-white{
   --tw-bg-opacity: 1;
-  background-color: rgb(253 224 71 / var(--tw-bg-opacity));
+  background-color: rgb(216 180 254 / var(--tw-bg-opacity));
 }
 .bg-red-600{
   --tw-bg-opacity: 1;
