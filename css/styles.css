@@ -1131,6 +1131,14 @@ img {
   --tw-border-opacity: 1;
   border-color: rgb(253 230 138 / var(--tw-border-opacity));
 }
+.border-purple-400{
+  --tw-border-opacity: 1;
+  border-color: rgb(192 132 252 / var(--tw-border-opacity));
+}
+.border-purple-500{
+  --tw-border-opacity: 1;
+  border-color: rgb(168 85 247 / var(--tw-border-opacity));
+}
 .border-gray-900{
   --tw-border-opacity: 1;
   border-color: rgb(17 24 39 / var(--tw-border-opacity));
